@@ -15,7 +15,6 @@ do
             printimage "Amazon Linux"
             ;;
         "Ubuntu")
-            echo "you chose choice ubuntu"
             printimage "Ubuntu"
             ;;
         "SUSU")
